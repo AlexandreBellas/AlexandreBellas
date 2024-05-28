@@ -15,13 +15,13 @@
 - 🎓 Also I have a bachelor's degree in Computer Engineering @ [USP](https://www5.usp.br/)
 - 💻 I'm currently a Full-stack Software Engineer, working with:
 
-|                | Tools                                                                                                                                                                                                                     |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages      | <img align="center" alt="Languages (Javascript, Typescript, PHP, C#, Python)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=js,ts,php,cs,py&theme=dark">                                    |
-| Front-end      | <img align="center" alt="Front-end (React, SASS, jQuery, Bootstrap, Vite, Wordpress)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=react,sass,jquery,bootstrap,vite,wordpress&theme=dark"> |
-| Back-end       | <img align="center" alt="Back-end (NodeJS, NestJS, AdonisJS, Prisma, Laravel)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=nodejs,nest,adonis,prisma,laravel&theme=dark">                 |
-| Database       | <img align="center" alt="Database (PostgreSQL, MySQL, Redis, DynamoDB, MongoDB)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=postgresql,mysql,redis,dynamodb,mongodb&theme=dark">         |
-| Infrastructure | <img align="center" alt="Cloud (AWS, Docker, Linux, Git, GitHub, NGINX)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx&theme=dark">                       |
+|                | Tools                                                                                                                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages      | <img align="center" alt="Languages (Javascript, Typescript, PHP, C#, Python)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=js,ts,php,cs,py&theme=dark">                                                    |
+| Front-end      | <img align="center" alt="Front-end (React, SASS, jQuery, Bootstrap, Vite, Wordpress)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=react,nextjs,jquery,bootstrap,vite,tailwind,sass,wordpress&theme=dark"> |
+| Back-end       | <img align="center" alt="Back-end (NodeJS, NestJS, AdonisJS, Prisma, Laravel)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=nodejs,nest,adonis,prisma,laravel&theme=dark">                                 |
+| Database       | <img align="center" alt="Database (PostgreSQL, MySQL, Redis, DynamoDB, MongoDB)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=postgresql,mysql,redis,dynamodb,mongodb&theme=dark">                         |
+| Infrastructure | <img align="center" alt="Cloud (AWS, Docker, Linux, Git, GitHub, NGINX)" height="40" style="margin-bottom: 5px;" src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx&theme=dark">                                       |
 
 <hr/>
 
